@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         I'm a passionate software engineer who loves building an application and learning new
-        technologies. I learned MERN stack at a immersive coding bootcamp,
+        technologies. I learned a MERN stack at a immersive coding bootcamp called&nbsp;
         <a href="https://www.hackreactor.com/" target="_blank" rel="noreferrer">
           Hack Reactor
         </a>
