@@ -12,3 +12,6 @@ tech:
   - Twillo API
   - Yelp API
 ---
+
+Bill-Splitting app that allows users to choose a restaurant, set up each person's bill + tip and upload receipt.
+Users get text message once the bill has established.
