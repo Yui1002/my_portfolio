@@ -4,10 +4,9 @@ module.exports = {
   siteMetadata: {
     title: 'Yui Murayama',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://yuiharu.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+      'Yui Murayam is a software engineer who has 3 years of experience in full stack development.',
+    siteUrl: 'https://yuiharu.com',
+    image: '/og.png',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

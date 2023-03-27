@@ -3,7 +3,6 @@ date: '2'
 title: 'Lesson Manager'
 cover: './lessonmanager.png'
 github: 'https://github.com/Yui1002/LessonManager'
-external: 'deploy_to_app'
 tech:
   - React
   - Node.js
